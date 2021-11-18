@@ -4,3 +4,7 @@ theme:
   custom_dir: 'cinder-1.2.0'
 nav:
   - Home: index.md
+  - Career Artifact: docs/pages/career-based-artifact.md
+  - Capstone Project: docs/pages/capstone-project-4999.md
+  - Writing Sample: docs/pages/writing-sample.md
+  - Reflection: docs/pages/reflection-summary.md
