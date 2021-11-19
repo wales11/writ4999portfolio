@@ -1,5 +1,5 @@
 site_name: Corey's WRIT 4999 Portfolio
-theme:
+theme: cinder
   custom_dir: 'cinder-1.2.0'
 site_author: Corey Wales
 nav:
