@@ -1,10 +1,10 @@
 site_name: Corey's WRIT 4999 Portfolio
 theme:
-  name: null
   custom_dir: 'cinder-1.2.0'
+site_author: Corey Wales
 nav:
   - Home: 'docs/index.md'
-  - Career Artifact: 'docs/pages/career-based-artifact.md'
-  - Capstone Project: 'docs/pages/capstone-project-4999.md'
-  - Writing Sample: 'docs/pages/writing-sample.md'
-  - Reflection: 'docs/pages/reflection-summary.md'
+  - Career Artifact: 'docs/microwave/career-based-artifact.md'
+  - Capstone Project: 'docs/microwave/capstone-project-4999.md'
+  - Writing Sample: 'docs/microwave/writing-sample.md'
+  - Reflection: 'docs/microwave/reflection-summary.md'
