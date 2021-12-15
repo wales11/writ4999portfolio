@@ -1,7 +1,4 @@
 site_name: Corey's WRIT 4999 Portfolio
-theme:
-  name: null
-  custom_dir: cinder-1.2.0
 site_author: Corey Wales
 nav:
   - Home: index.md

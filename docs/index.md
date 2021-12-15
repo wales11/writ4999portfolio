@@ -18,4 +18,4 @@ Project 3 is a writing sample from a class I took on Rhetoric, Technology, and t
 
 #### Project 4
 
-My fourth and final project is a reflection I have written summarizing what I've learned throughout the WRIT 4999 class. I connected my senior capstone project to my previous experience in TWC and the connection to my professional identity.
+My fourth and final project is a reflection I have written summarizing what I've learned throughout the WRIT 4999 class. I connected my senior capstone project to my previous experience in TWC and my professional identity.

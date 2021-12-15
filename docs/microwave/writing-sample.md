@@ -1,8 +1,5 @@
-<object data="‪C:\Users\Corey\Downloads\Writing Sample.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="‪C:\Users\Corey\Downloads\Writing Sample.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="‪C:\Users\Corey\Downloads\Writing Sample.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+#### Corey Wales
+#### Evolution of MLB
 
 ### Abstract
 
@@ -38,10 +35,14 @@ Prior to 2020, the MLB’s statistical analysis systems such as Statcast and Bas
 
 Numbers have been the driving force of change in the MLB since the turn of the century, and they will continue to determine the methods used and decisions made at all levels of the league. An abundance of statistics and data has led to changes in the way the game is played on every level, including pitching, hitting, and managing. There has been a shift toward an objective approach both for managing and playing, and the shift will continue to reign in new methods of playing baseball. The future is promising regarding statistical analysis in tandem with the player and viewer experience, with innovations like Hawk-Eye already showing excellent results. In the end, with billions of dollars on the line, everyone in the baseball industry is looking for an advantage, and those advantages are achieved using statistics. 
 
-###### References
+##### References
 
 Jedlovec, B. (2020, July 20). Introducing Statcast 2020: Hawk-Eye and Google Cloud. MLB. Retrieved from: https://technology.mlblogs.com/introducing-statcast-2020-hawk-eye-and-google-cloud-a5f5c20321b8 
+
 “Kevin Cash wins AL Manager of the Year Award” (2020, November 10). MLB. Retrieved from: https://www.mlb.com/press-release/press-release-kevin-cash-wins-2020-al-manager-of-the-year-award 
+
 Petriello, M. (2019, May 19). How has a year of ‘the opener’ changed MLB? MLB. Retrieved from: https://www.mlb.com/news/how-has-a-year-of-the-opener-changed-baseball 
+
 Sheinin, D. (2017, June 1). These days in baseball, every batter is trying to find an angle. Washington Post. Retrieved from: https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/ 
+
 “Statcast” (n.d.). Statcast Glossary. MLB. Retrieved from: http://m.mlb.com/glossary/statcast 
