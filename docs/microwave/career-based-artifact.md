@@ -32,8 +32,10 @@
 | Experienced in Python, R, Drupal, DITA, Git, Markdown, HTML, CSS, and MkDocs |
 | Learned advanced computer knowledge and skills (Microsoft Suite and Google Docs, Sheets, and Slides) |
 
-
-
+| Feature Stories from CFANS |
+| :--- |
+| [Sustainable science](https://www.cfans.umn.edu/news/stick-sustainable-science) |
+| [Fostering forests](https://www.cfans.umn.edu/news/fostering-forests) |
 
 
 
